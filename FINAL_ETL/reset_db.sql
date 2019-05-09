@@ -1,0 +1,1 @@
+ DROP DATABASE IF EXISTS good_books_db;
